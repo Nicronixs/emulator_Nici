@@ -1,0 +1,22 @@
+# ninja log v6
+37	746	7810907163717823	CMakeFiles/Halbaddierer.dir/src/Gate.cpp.obj	db70fec6032a5e12
+60	783	7810907163937813	CMakeFiles/Halbaddierer.dir/src/OneInput.cpp.obj	2a2b2f2cbf04c37d
+16	463	7810907163507854	CMakeFiles/Halbaddierer.dir/src/Bit.cpp.obj	5ee744cd03b3bc98
+4	909	7810907163387809	CMakeFiles/Halbaddierer.dir/src/main.cpp.obj	c0b5f693eac41963
+106	757	7810907164402319	CMakeFiles/Halbaddierer.dir/src/TwoInput.cpp.obj	83baecd989a67e7a
+1264	2698	7810907175987193	Halbaddierer.exe	c4a52348cbabcbcf
+129	875	7810907164632346	CMakeFiles/Halbaddierer.dir/src/And.cpp.obj	e5f07e83bb0ecebf
+260	867	7810907165939380	CMakeFiles/Halbaddierer.dir/src/Not.cpp.obj	a91dc338b8e4ede4
+305	1264	7810907166393334	CMakeFiles/Halbaddierer.dir/src/HalfAdder.cpp.obj	d1d98c608331e3d9
+213	1212	7810907165478087	CMakeFiles/Halbaddierer.dir/src/XOR.cpp.obj	970743d12c8f3a84
+158	654	7829033457997717	CMakeFiles/Halbaddierer.dir/src/Bit.cpp.obj	5ee744cd03b3bc98
+191	1153	7829033458315219	CMakeFiles/Halbaddierer.dir/src/TwoInput.cpp.obj	83baecd989a67e7a
+168	1154	7829033458090939	CMakeFiles/Halbaddierer.dir/src/Gate.cpp.obj	db70fec6032a5e12
+201	1156	7829033458421808	CMakeFiles/Halbaddierer.dir/src/And.cpp.obj	e5f07e83bb0ecebf
+234	1165	7829033458759501	CMakeFiles/Halbaddierer.dir/src/Or.cpp.obj	bce1206a797cea93
+218	1170	7829033458594405	CMakeFiles/Halbaddierer.dir/src/Not.cpp.obj	a91dc338b8e4ede4
+181	1186	7829033458217298	CMakeFiles/Halbaddierer.dir/src/OneInput.cpp.obj	2a2b2f2cbf04c37d
+211	2070	7829033458523763	CMakeFiles/Halbaddierer.dir/src/XOR.cpp.obj	970743d12c8f3a84
+149	2107	7829033457900586	CMakeFiles/Halbaddierer.dir/src/main.cpp.obj	c0b5f693eac41963
+242	2119	7829033458830531	CMakeFiles/Halbaddierer.dir/src/FullAdder.cpp.obj	7c0dee2e91dd9d20
+227	2182	7829033458677693	CMakeFiles/Halbaddierer.dir/src/HalfAdder.cpp.obj	d1d98c608331e3d9

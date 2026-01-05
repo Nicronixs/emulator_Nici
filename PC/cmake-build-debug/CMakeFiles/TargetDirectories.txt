@@ -1,0 +1,3 @@
+C:/Users/Ninco/OneDrive/Desktop/emulator-Nicronixs/PC/cmake-build-debug/CMakeFiles/Halbaddierer.dir
+C:/Users/Ninco/OneDrive/Desktop/emulator-Nicronixs/PC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ninco/OneDrive/Desktop/emulator-Nicronixs/PC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
